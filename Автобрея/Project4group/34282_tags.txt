@@ -1,0 +1,5 @@
+2	12	Service	0
+4	8,9,10,11,12	Service	0
+8	15	Service	1
+11	11,17,18	Food	1
+11	24,25	Service	0
