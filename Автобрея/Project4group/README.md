@@ -2,4 +2,4 @@
 
 Если будет удобнее - ссылка на разметку на гугл-диск https://drive.google.com/open?id=1QJTR3BkXxj-H5gDXHtM8yDD-rsddtO00
 
-Реферат появится сегодня. Извините за задержку.
+Реферат по статье - https://docs.google.com/document/d/1-wll4DGXdhdGF8jEILdCXPF-9lbi0QRWrRjUOZhOAdk/edit?usp=sharing
