@@ -1,3 +1,0 @@
-4	1	Food	1
-4	1	Service	1
-5	2	Service	1
